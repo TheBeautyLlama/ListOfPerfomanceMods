@@ -13,7 +13,7 @@ Lithium: https://github.com/CaffeineMC/lithium-fabric <br/>
 <br/>
 ### Conflicting with each other
 Use <br/>
-Fast Chests: https://www.curseforge.com/minecraft/mc-mods/fastchest <br/>
+Fast Chests: https://github.com/FakeDomi/FastChest/releases <br/>
 +
 <br/> Better beds: https://www.curseforge.com/minecraft/mc-mods/better-beds <br/>
 OR <br/>
