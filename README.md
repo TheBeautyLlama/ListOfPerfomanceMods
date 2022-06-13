@@ -2,6 +2,7 @@
 
 Sodium: https://github.com/CaffeineMC/sodium-fabric <br/>
 Sodium addon: https://github.com/FlashyReese/sodium-extra-fabric <br/>
+Sodium addon for addon: https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options <br/>
 Indium: https://github.com/comp500/Indium <br/>
 Culling Particles: https://www.curseforge.com/minecraft/mc-mods/cull-particles-fabric <br/>
 Entity Culling: https://www.curseforge.com/minecraft/mc-mods/entityculling <br/>
