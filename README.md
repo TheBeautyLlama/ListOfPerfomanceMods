@@ -8,7 +8,7 @@ Entity Culling: https://www.curseforge.com/minecraft/mc-mods/entityculling <br/>
 FerritCore: https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric <br/>
 Krypton: https://www.curseforge.com/minecraft/mc-mods/krypton <br/>
 Smooth Boot: https://www.curseforge.com/minecraft/mc-mods/smooth-boot <br/> 
-Starlight: https://github.com/PaperMC/Starlight <br/>
+Starlight: https://www.curseforge.com/minecraft/mc-mods/starlight <br/>
 Lithium: https://github.com/CaffeineMC/lithium-fabric <br/>
 <br/>
 ### Conflicting with each other
