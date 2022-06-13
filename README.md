@@ -11,7 +11,7 @@ Smooth Boot: https://www.curseforge.com/minecraft/mc-mods/smooth-boot <br/>
 Starlight: https://github.com/PaperMC/Starlight <br/>
 Lithium: https://github.com/CaffeineMC/lithium-fabric <br/>
 <br/>
-### Conflicting with eachother
+### Conflicting with each other
 Use <br/>
 Fast Chests: https://www.curseforge.com/minecraft/mc-mods/fastchest <br/>
 +
