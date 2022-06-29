@@ -11,6 +11,7 @@ Krypton: https://www.curseforge.com/minecraft/mc-mods/krypton <br/>
 Smooth Boot: https://www.curseforge.com/minecraft/mc-mods/smooth-boot <br/> 
 Starlight: https://www.curseforge.com/minecraft/mc-mods/starlight <br/>
 Lithium: https://github.com/CaffeineMC/lithium-fabric <br/>
+LazyDFU: https://www.curseforge.com/minecraft/mc-mods/lazydfu <br/>
 <br/>
 ### Conflicting with each other
 Use <br/>
