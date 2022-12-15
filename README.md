@@ -4,7 +4,6 @@ Sodium: https://github.com/CaffeineMC/sodium-fabric <br/>
 Sodium addon: https://github.com/FlashyReese/sodium-extra-fabric <br/>
 Sodium addon for addon: https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options <br/>
 Indium: https://github.com/comp500/Indium <br/>
-Culling Particles: https://www.curseforge.com/minecraft/mc-mods/cull-particles-fabric <br/>
 Entity Culling: https://www.curseforge.com/minecraft/mc-mods/entityculling <br/>
 FerritCore: https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric <br/>
 Krypton: https://www.curseforge.com/minecraft/mc-mods/krypton <br/>
@@ -20,6 +19,9 @@ Fast Chests: https://github.com/FakeDomi/FastChest/releases <br/>
 <br/> Better beds: https://www.curseforge.com/minecraft/mc-mods/better-beds <br/>
 OR <br/>
 Enhanced Block Entities: https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities <br/>
+<br/>
+### NEED 1.19.3 FORK 
+Culling Particles: https://www.curseforge.com/minecraft/mc-mods/cull-particles-fabric <br/>
 <br/>
 <br/>
 # List of QoL mods (fabric)
